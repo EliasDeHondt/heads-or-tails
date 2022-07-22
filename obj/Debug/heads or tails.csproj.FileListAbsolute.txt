@@ -1,0 +1,16 @@
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\Heads Or Tails\heads or tails\heads or tails\bin\Debug\heads or tails.exe.config
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\Heads Or Tails\heads or tails\heads or tails\bin\Debug\heads or tails.exe
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\Heads Or Tails\heads or tails\heads or tails\bin\Debug\heads or tails.pdb
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\Heads Or Tails\heads or tails\heads or tails\obj\Debug\heads or tails.csproj.AssemblyReference.cache
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\Heads Or Tails\heads or tails\heads or tails\obj\Debug\heads or tails.csproj.SuggestedBindingRedirects.cache
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\Heads Or Tails\heads or tails\heads or tails\obj\Debug\MainWindow.g.cs
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\Heads Or Tails\heads or tails\heads or tails\obj\Debug\App.g.cs
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\Heads Or Tails\heads or tails\heads or tails\obj\Debug\heads or tails_MarkupCompile.cache
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\Heads Or Tails\heads or tails\heads or tails\obj\Debug\heads or tails_MarkupCompile.lref
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\Heads Or Tails\heads or tails\heads or tails\obj\Debug\MainWindow.baml
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\Heads Or Tails\heads or tails\heads or tails\obj\Debug\heads or tails.g.resources
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\Heads Or Tails\heads or tails\heads or tails\obj\Debug\heads_or_tails.Properties.Resources.resources
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\Heads Or Tails\heads or tails\heads or tails\obj\Debug\heads or tails.csproj.GenerateResource.cache
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\Heads Or Tails\heads or tails\heads or tails\obj\Debug\heads or tails.csproj.CoreCompileInputs.cache
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\Heads Or Tails\heads or tails\heads or tails\obj\Debug\heads or tails.exe
+C:\Users\elias\OneDrive\Data Core\Documents\Work Documents\Web Hosting EliasDH\Windows Apps\Heads Or Tails\heads or tails\heads or tails\obj\Debug\heads or tails.pdb
